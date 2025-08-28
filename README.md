@@ -20,29 +20,28 @@ gantt
   Impermeabilização :done, a8, after a7, 5d
 
   section Estruturação da casa
-  Paredes :future, a9, after a8, 9d
-  Colunas :future, a10, after a9, 7d
-  Vigas :future, a11, after a10, 7d
-  Telhado :future, a12, after a11, 7d
+  Paredes :done, a9, after a8, 9d
+  Colunas :done, a10, after a9, 7d
+  Vigas :done, a11, after a10, 7d
+  Telhado :done, a12, after a11, 7d
 
   section Instalações elétricas e hidráulicas
-  Tubulações de agua e esgoto :future, a13, after a12, 7d
-  Fiação :future, a14, after a13, 7d
-  Painéis elétricos :future, a15, after a14, 6d
+  Tubulações de agua e esgoto :done, a13, after a12, 7d
+  Fiação :done, a14, after a13, 7d
+  Painéis elétricos :done, a15, after a14, 6d
 
   section Acabamento interno
-  Reboco :future, a16, after a15, 6d
-  Pintura :future, a17, after a16, 6d
-  Instalação de portas e janelas :future, a18, after a17, 6d
-  Detalhes de acabamento :future, a19, after a18, 7d
+  Reboco :done, a16, after a15, 6d
+  Pintura :done, a17, after a16, 6d
+  Instalação de portas e janelas :done, a18, after a17, 6d
+  Detalhes de acabamento :done, a19, after a18, 7d
 
   section Acabamento externo
-  Pintura :future, a20, after a19, 5d
-  Paisagismo :future, a21, after a20, 5d
-  Instalação de cercas :future, a22, after a21, 5d
+  Pintura :done, a20, after a19, 5d
+  Paisagismo :done, a21, after a20, 5d
+  Instalação de cercas :done, a22, after a21, 5d
 
   section Inspeção final
   Inspeção e entrega da casa :milestone, a23, after a22
-
 
 ```
