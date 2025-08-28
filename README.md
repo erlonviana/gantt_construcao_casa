@@ -42,6 +42,6 @@ gantt
   Instalação de cercas :done, a22, after a21, 5d
 
   section Inspeção final
-  Inspeção e entrega da casa :milestone, a23, after a22
+  Inspeção e entrega da casa :done, a23, after a22
 
 ```
