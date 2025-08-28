@@ -25,16 +25,16 @@ gantt
   ➡️Fiação :future, a14, after a13, 7d
   ➡️Painéis elétricos :future, a15, after a14, 6d
   section Acabamento interno
-  ➡️Reboco :future, a13, after a12, 6d
-  ➡️Pintura :future, a14, after a13, 6d
-  ➡️Instalação de portas e janelas :future, a15, after a14, 6d
-  ➡️Detalhes de acabamento :future, a15, after a14, 7d
+  ➡️Reboco :future, a16, after a15, 6d
+  ➡️Pintura :future, a17, after a16, 6d
+  ➡️Instalação de portas e janelas :future, a18, after a17, 6d
+  ➡️Detalhes de acabamento :future, a19, after a18, 7d
   section Acabamento externo
-  ➡️Pintura :future, a16, after a15, 5d
-  ➡️Paisagismo :future, a17, after a16, 5d
-  ➡️Instalação de cercas :future, a18, after a17, 5d
+  ➡️Pintura :future, a20, after a19, 5d
+  ➡️Paisagismo :future, a21, after a20, 5d
+  ➡️Instalação de cercas :future, a22, after a21, 5d
   section Inspeção final
-  ➡️Inspeção e entrega da casa :future, a19, after a18, 5d
+  ➡️Inspeção e entrega da casa :future, a23, after a22, 5d
   
 
   
