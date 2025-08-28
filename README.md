@@ -16,8 +16,8 @@ gantt
 
   section Fundação da casa
   Escavação :active, a6, after a5, 5d
-  Fundações de concreto :future, a7, after a6, 5d
-  Impermeabilização :future, a8, after a7, 5d
+  Fundações de concreto :done, a7, after a6, 5d
+  Impermeabilização :done, a8, after a7, 5d
 
   section Estruturação da casa
   Paredes :future, a9, after a8, 9d
@@ -42,6 +42,7 @@ gantt
   Instalação de cercas :future, a22, after a21, 5d
 
   section Inspeção final
-  Inspeção e entrega da casa :future, a23, after a22, 5d
+  Inspeção e entrega da casa :milestone, a23, after a22
+
 
 ```
