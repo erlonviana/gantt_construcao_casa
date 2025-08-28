@@ -5,7 +5,7 @@ gantt
   title Gantt Construção da Casa
   dateFormat YYYY-MM-DD
   section Planejamento e aprovações
-  ⌛Preparo desenhos arquitetônicos :active, a1, 2025-02-02, 6d
+  ✅Preparo desenhos arquitetônicos :active, a1, 2025-02-02, 6d
   ➡️Aprovação dos documentos :future, a2, after a1, 7d
   ➡️Criação do plano de construção :future, a3, after a2, 7d 
   section Preparação do terreno
